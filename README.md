@@ -8,3 +8,6 @@ _Either_ replicate Tables 1 and 2 from DGR (2011) using the 2007 Survey of Consu
 
 ### Problem 4
 Replicate a part of Table 27 from DGR using the PSID between 2001 and 2007 by constructing the transition matrix for _either_ earnings _or_ income _or_ wealth. For the outcome variable you picked, plot the Lorenz curves for 2001 and 2007 in one graph, and compute the Gini for those years.
+
+
+I did question 3, and the update includes my code and packages I used from Internet. The result shows that most statistics are close to what the paper reported. 
